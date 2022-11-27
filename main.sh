@@ -75,7 +75,8 @@ else
       rm -rf java/bungee_command/*
       cp -r /tmp/new/java/bungee_command/. ./java/bungee_command/
       echo ensuring that bungeecord is hosting on the correct port...
-      sed -i 's/host: 0\.0\.0\.0:[0-9]\+/host: 0.0.0.0:1/' java/bungee_command/config.yml
+      sed -i 's/host: 0\.0\.0\.0:[0-9]\+/host: 127.0.0.1:1/' java/bungee_command/config.yml
+      sed -i 's/^server-ip=$/server-ip=127.0.0.1/' java/bukkit_command/server.properties
     fi
     echo updating bukkit server...
     if [ "$emergbukkit" = "true" ]; then

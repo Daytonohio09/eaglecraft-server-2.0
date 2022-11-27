@@ -1,5 +1,7 @@
 # replit eaglercraft server
 
+### ty [Byte#9476](https://replit.com/@ant-7802) for fixing the forwarding issue!!
+
 [extra help discord server](https://discord.gg/9HfPSp3D)
 |
 [anotha one](https://discord.gg/FBqfmDkF2Z)
@@ -17,7 +19,7 @@ motd changing is DIFFERENT than what these tutorials say!! -- check the `java/bu
 
 https://www.wevideo.com/view/2581865286
 
-YouTube Mirror: https://www.youtube.com/watch?v=As99AOL_-vM
+YouTube Mirror: r
 
 ## [Helpful Google Doc by a generous user](https://docs.google.com/document/d/1MdaQRQbRXb9wXRtdS-c7OGBMcTh9DO8iAKT6fcpdJ5g/edit)
 Here in case it helps!
